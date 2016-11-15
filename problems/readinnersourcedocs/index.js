@@ -1,5 +1,5 @@
-exports.problem = 'Make a dinosaur sound.\n'
-    + 'Use `$ADVENTURE_COMMAND verify YOUR_TEXT...` to make your sound.'
+exports.problem = 'Read InnerSource literature and/or listen to lightning talk.\n'
+    + 'Use `$ADVENTURE_COMMAND verify...` to check your solution.'
 ;
 
 exports.verify = function (args, cb) {
@@ -12,7 +12,7 @@ exports.verify = function (args, cb) {
         cb(false);
     }
     else {
-        console.log("That doesn't sound like a dinosaur at all.\n");
+        console.log("TBD.\n");
         cb(false);
     }
 };

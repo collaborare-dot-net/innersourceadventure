@@ -1,0 +1,4 @@
+Using your favorite editor, generate the four minimal documents that every InnerSource project should have in its repository.  Afterwards:
+
+  Use `$ADVENTURE_COMMAND verify` to verify your program.
+

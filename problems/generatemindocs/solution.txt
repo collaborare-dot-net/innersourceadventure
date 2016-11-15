@@ -1,0 +1,7 @@
+Here's the reference solution, if you're interested:
+
+The four documents are:
+   -- README.md (for improved findability; name, description, earlier names of projects, keywords, announcements about builds, releases, bugs and performance issues; information about discussion lists)
+   -- HELPWANTED.md - links to the rally backlog, issues, abandoned code; includes a ranking system (easy, intermediate, hard)
+   -- GETTINGSTARTED.md (things that people need to know)
+   -- CONTRIBUTING.md - all the requirements; acts like a Contribution Licensing Agreement (CLA); written set of expectations between groups.

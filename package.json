@@ -1,6 +1,6 @@
 {
   "name": "example-adventure",
-  "version": "1.0.1",
+  "version": "0.0.1",
   "description": "example of using adventure to make nodeschool challenges",
   "bin": {
     "example-adventure": "runner.js"
@@ -15,5 +15,19 @@
   "dependencies": {
     "adventure": "^2.2.0",
     "adventure-verify": "^2.1.1"
-  }
+  },
+  "main": "runner.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node runner",
+    "test": "echo no tests as yet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CollaborareDotNet/innersourceworkshopper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CollaborareDotNet/innersourceworkshopper/issues"
+  },
+  "homepage": "https://github.com/CollaborareDotNet/innersourceworkshopper#readme"
 }
