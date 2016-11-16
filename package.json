@@ -1,16 +1,18 @@
 {
-  "name": "example-adventure",
+  "name": "innersourceadventure",
   "version": "0.0.1",
-  "description": "example of using adventure to make nodeschool challenges",
+  "description": "NodeSchool workshopper to learn about InnerSource development, using Node.",
   "bin": {
     "example-adventure": "runner.js"
   },
-  "author": "YOUR NAME HERE",
+  "author": "Monico Moreno",
   "license": "MIT",
   "keywords": [
     "nodeschool",
     "adventure",
-    "education"
+    "education",
+    "innersource",
+    "node"
   ],
   "dependencies": {
     "adventure": "^2.2.0",
