@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "NodeSchool workshopper to learn about InnerSource development, using Node.",
   "bin": {
-    "example-adventure": "runner.js"
+    "innersourceadventure": "runner.js"
   },
   "author": "Monico Moreno",
   "license": "MIT",
