@@ -1,5 +1,0 @@
-Using git, commit the minimal InnerSource documents you generated above. 
-
-Hint, this is typically a two-step process. 
-
-Use `$ADVENTURE_COMMAND verify` to verify your solution.

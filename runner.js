@@ -4,9 +4,9 @@ var adventure = require('adventure');
 var shop = adventure('innersource-adventure');
 
 var problems = [ 
-    {title:'read innersource docs', folder:"readinnersourcedocs"}, 
-    {title:'generate minimal documents', folder:"generatemindocs"}, 
-    {title:'commit minimal documents', folder:"commitmindocs"}];
+    {title:'Generate Minimal Documents', folder:"generatemindocs"},
+    {title:'Key Data in Main Document', folder:"keydatainmaindoc"},
+    {title:'InnerSource Tenets', folder:"istenets"}];
 problems.forEach(function (prob) {
     shop.add(prob.title, function () { return require('./problems/' + prob.folder) });
 });

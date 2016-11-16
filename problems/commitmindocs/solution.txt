@@ -1,4 +1,0 @@
-Here is the reference solution, if you're curious:
-
-git add .
-git commit -m "<your message here>"
