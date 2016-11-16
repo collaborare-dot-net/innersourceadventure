@@ -3,16 +3,6 @@ exports.problem = 'What are five of the tenets for using InnerSource?\n\nWrite a
 ;
 
 exports.verify = function (args, cb) {
-    if (/RAWR/.test(args)) {
-        console.log('Wow that is a convincing dinosaur.\n');
-        cb(true);
-    }
-    else if (/rawr/i.test(args)) {
-        console.log('Close, but too quiet. Try louder.\n');
-        cb(false);
-    }
-    else {
-        console.log("TBD.\n");
-        cb(false);
-    }
+    cb(false);
+    console.log("Actual solution verification coming soon!\n");
 };

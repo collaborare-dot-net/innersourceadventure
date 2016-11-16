@@ -5,5 +5,6 @@ exports.problem = fs.createReadStream(__dirname + '/problem.txt');
 exports.solution = fs.createReadStream(__dirname + '/solution.txt');
 
 exports.verify = function (args, cb) {
-    cb(true)
+    cb(false);
+    console.log("Actual solution verification coming soon!\n");
 };
