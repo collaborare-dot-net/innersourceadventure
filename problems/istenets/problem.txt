@@ -1,0 +1,20 @@
+--------------------------------------------------
+PROBLEM
+--------------------------------------------------
+What are five of the tenets for using InnerSource?
+
+Write a simple Node app that console.logs the names.
+--------------------------------------------------
+
+--------------------------------------------------
+DISCUSSION & HINTS
+--------------------------------------------------
+These tenets are "specific advantages" of the InnerSource strategy that are discussed in the InnerSource Commons site (https://paypal.github.io/InnerSourceCommons) 
+
+--------------------------------------------------
+VERIFICATION
+--------------------------------------------------
+When done, run the the following to verify your solution:
+
+	`$ADVENTURE_COMMAND verify`
+

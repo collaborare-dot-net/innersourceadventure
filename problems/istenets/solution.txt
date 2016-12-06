@@ -1,0 +1,16 @@
+--------------------------------------------------
+SOLUTION
+--------------------------------------------------
+The five (5) tenets are: 
+
+1) Faster development: Programmers use unit tests, code coverage, and continuous integration to remove bugs at early stages
+
+2) Complete documentation: Code is documented better, both in-code comments and less formally on discussion lists
+
+3) Code reuse: Programmers across the organization understand the code and architecture of modules developed by other teams
+
+4) Cross-team collaboration: Contributions by members outside of the team are frictionless and rarely have to be rewritten
+
+5) Development with GitHub: GitHub maintains private repositories for in-house projects as well as public repositories for open source code
+
+Taken from the InnerSource Commons site at: https://paypal.github.io/InnerSourceCommons/getting-started/
