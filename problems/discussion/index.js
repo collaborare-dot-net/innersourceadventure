@@ -8,8 +8,15 @@ exports.solution = fs.createReadStream(__dirname + '/solution.txt');
 exports.verify = function (args, cb) {
 	/*
 		Note:
-		The bulk of this solution was borrowed from https://github.com/jlord/git-it/blob/master/problems/repository/verify.js
-		Credit goes @jlord
+		The bulk of this solution was borrowed from @jlord at:
+
+		https://github.com/jlord/git-it/blob/master/problems/repository/verify.js
+
+		   and
+
+		https://github.com/jlord/git-it/blob/master/problems/remote_control/verify.js
+
+		Credit goes to @jlord for it.
 	*/
 
 	exec('git status', function(err, stdout, stdrr) {
