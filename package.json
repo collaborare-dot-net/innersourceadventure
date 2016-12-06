@@ -1,6 +1,6 @@
 {
   "name": "innersourceadventure",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "NodeSchool workshopper to learn about InnerSource development, using Node.",
   "bin": {
     "innersourceadventure": "runner.js"
