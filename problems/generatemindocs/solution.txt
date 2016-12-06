@@ -12,4 +12,4 @@ The four documents are:
    -- CONTRIBUTING.md - all the requirements; acts like a Contribution Licensing Agreement (CLA); written set of expectations between groups.
 
 
-  Discussion about these files can be found on the InnserSource Commons Wiki at: https://github.com/paypal/InnerSourceCommons/wiki/InnerSource-basic-checklist-for-GitHub
+  Discussion about these files can be found on the InnerSource Commons Wiki at: https://github.com/paypal/InnerSourceCommons/wiki/InnerSource-basic-checklist-for-GitHub.
