@@ -3,7 +3,7 @@ PROBLEM
 --------------------------------------------------
 In the spirit of InnerSource, it's now time to discuss with others!
 
-Whip up a repo out of your project and push it to Github and discuss with fellow NodeSchoolers!  
+Whip up a repo out of your project, and push it to Github. Discuss with fellow NodeSchoolers!  
 
 --------------------------------------------------
 
@@ -20,8 +20,3 @@ VERIFICATION
 When done, run the the following to verify your solution:
 
 	`$ADVENTURE_COMMAND verify`
-
-
-
-
-
