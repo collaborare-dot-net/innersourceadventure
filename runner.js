@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 var adventure = require('adventure');
-var shop = adventure('innersource-adventure');
+var shop = adventure('innersourceadventure');
 
 var problems = [ 
     {title:'Generate Minimal Documents', folder:"generatemindocs"},
