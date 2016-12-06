@@ -3,3 +3,17 @@ SOLUTION
 --------------------------------------------------
 This step is a rhetorical step and is open for discussion! ;-) 
 
+But, to have this problem verified successfully, initialize a git repo in your working folder and push to a remote.
+
+Typical commands for the above are:
+
+$> `git init`
+$> `git add .`
+$> `git commit -m "<your message here>"`
+$> `git push <remote> <branch>`
+
+      where <remote> is typically defaulted to "origin" and <branch> to "master"
+
+For further help on git, there is the git-it workshopper, found here: https://nodeschool.io#workshopper-list
+Also, one of the main places for tutorials and reference material is at: https://git-scm.com
+
