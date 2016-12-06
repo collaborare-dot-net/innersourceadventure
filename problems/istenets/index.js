@@ -1,6 +1,9 @@
-exports.problem = 'What are five of the tenets for using InnerSource?\n\nWrite a simple Node app that console.logs the names.\n\n'
-    + 'Use `$ADVENTURE_COMMAND verify...` to check your solution.\n\n'
-;
+var fs = require('fs');
+var path = require('path');
+
+exports.problem = fs.createReadStream(__dirname + '/problem.txt');
+exports.solution = fs.createReadStream(__dirname + '/solution.txt');
+
 
 exports.verify = function (args, cb) {
     cb(false);
