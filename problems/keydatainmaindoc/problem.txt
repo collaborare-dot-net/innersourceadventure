@@ -1,15 +1,15 @@
 --------------------------------------------------
 PROBLEM
 --------------------------------------------------
-One of the main documents in an InnerSource project should have several headings that are important.
-Put these headings in the main document.
+The main document in an InnerSource project should have several headings that are important.
+Put these headings in the main document that you generated as part of this workshopper.
 
 
 --------------------------------------------------
 DISCUSSION & HINTS
 --------------------------------------------------
-Hint, what is default file that gets rendered in a github repo?
-Also, as long as you get most of the headings in the main doc, your verification will pass.
+Hint: The main document is the default file that gets rendered in a github repo.
+The required headers mentioned above can be found listed in the InnerSource Commons wiki section that discusses creating this main document.
 
 --------------------------------------------------
 VERIFICATION

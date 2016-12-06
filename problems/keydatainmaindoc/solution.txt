@@ -1,11 +1,14 @@
 Here is the reference solution, if you're curious:
 
 The 8 headings are:
-Name
-Description
-Usage
-Badges (like InnerSource, OpenSource)
-Keywords
-Key project management links (i.e. links to Rally stories)
-Documentation links (include Contrib.md, Help Wanted and Getting Started)
-Announcement list location
+-- Name
+-- Description
+-- Usage
+-- Badges (like InnerSource, OpenSource)
+-- Keywords
+-- Key project management links (i.e. links to Rally stories)
+-- Documentation links (include Contrib.md, Help Wanted and Getting Started)
+-- Announcement list location
+
+Taken from the InnerSource Commons Wiki page: https://github.com/paypal/InnerSourceCommons/wiki/CreatingAReadme
+
