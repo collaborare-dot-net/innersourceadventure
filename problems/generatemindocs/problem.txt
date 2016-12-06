@@ -1,6 +1,20 @@
+--------------------------------------------------
+PROBLEM
+--------------------------------------------------
 Using your favorite editor, generate the four minimal documents that every InnerSource project should have in its repository.
+--------------------------------------------------
 
-Afterwards:
+--------------------------------------------------
+DISCUSSION & HINTS
+--------------------------------------------------
+Thinking in terms of an inner source project, which is very similar to open source projects, there is always a landing area where a new developers "read" about the project's github repository and project in general.  Furthermore, onboarding new developers requires a way for them to get going with (hint 2) "contributing" on the project.  Not only that, but in order to work on the project, a developer typically needs to understand how to run the application, and as such, needs something that will (hint 3) "get" the developer "started" on how to do this.  Last, but not least, a developer needs to know whether or not a projects needs and (hint 4) "wants" some "help" with it.
 
-  Use `$ADVENTURE_COMMAND verify` to verify that you've generated them.
+If the above paragraph is too vague or confusing, please feel free to contribute this project or simply go to the InnserSource Commons Wiki to find a (hint 5) basic checklist that might include the four (4) documents mentioned above.
+
+--------------------------------------------------
+VERIFICATION
+--------------------------------------------------
+When you think you have the four documents and are ready for verification, run the the following to verify your solution:
+
+	`$ADVENTURE_COMMAND verify`
 

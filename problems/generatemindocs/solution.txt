@@ -1,7 +1,14 @@
 Here's the reference solution, if you're interested:
 
 The four documents are:
-   -- README.md (for improved findability; name, description, earlier names of projects, keywords, announcements about builds, releases, bugs and performance issues; information about discussion lists)
-   -- HELPWANTED.md - links to the rally backlog, issues, abandoned code; includes a ranking system (easy, intermediate, hard)
-   -- GETTINGSTARTED.md (things that people need to know)
+
+   -- README.md is for improved findability; name, description, earlier names of projects, keywords, announcements about builds, releases, bugs and performance issues; information about discussion lists.
+
+   -- HELPWANTED.md links to the rally backlog, issues, abandoned code; includes a ranking system (easy, intermediate, hard)
+
+   -- GETTINGSTARTED.md explains how one can get started with running the application, installing and using a component, or building and using a library, etc.
+
    -- CONTRIBUTING.md - all the requirements; acts like a Contribution Licensing Agreement (CLA); written set of expectations between groups.
+
+
+  Discussion about these files can be found on the InnserSource Commons Wiki at: https://github.com/paypal/InnerSourceCommons/wiki/InnerSource-basic-checklist-for-GitHub
