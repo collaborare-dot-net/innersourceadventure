@@ -1,9 +1,27 @@
+--------------------------------------------------
+PROBLEM
+--------------------------------------------------
 In the spirit of InnerSource, it's now time to discuss with others!
 
-Whip up a repo out of your project and push it to Github. 
+Whip up a repo out of your project and push it to Github and discuss with fellow NodeSchoolers!  
 
+--------------------------------------------------
+
+--------------------------------------------------
+DISCUSSION & HINTS
+--------------------------------------------------
 Hint: if git/github is new to you, try out the git-it workshopper, found here: https://nodeschool.io#workshopper-list
 
-Afterwards, get with one or more of the other attendees and discuss InnerSource with them based on what you all have done with and learned from your repos.
+Or, you can ask for help from a fellow NodeSchooler or one of the NodeSchool mentors.
 
-  Use `$ADVENTURE_COMMAND verify` to verify/validate this final step.
+--------------------------------------------------
+VERIFICATION
+--------------------------------------------------
+When done, run the the following to verify your solution:
+
+	`$ADVENTURE_COMMAND verify`
+
+
+
+
+

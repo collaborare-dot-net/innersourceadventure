@@ -1,7 +1,22 @@
+--------------------------------------------------
+PROBLEM
+--------------------------------------------------
 One of the main documents in an InnerSource project should have several headings that are important.
 Put these headings in the main document.
 
+
+--------------------------------------------------
+DISCUSSION & HINTS
+--------------------------------------------------
 Hint, what is default file that gets rendered in a github repo?
 Also, as long as you get most of the headings in the main doc, your verification will pass.
 
-Use `$ADVENTURE_COMMAND verify` to verify your solution.
+--------------------------------------------------
+VERIFICATION
+--------------------------------------------------
+
+When done, run the the following to verify your solution:
+
+	`$ADVENTURE_COMMAND verify`
+
+
